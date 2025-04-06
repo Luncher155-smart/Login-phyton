@@ -1,0 +1,9 @@
+Colorama:
+
+    run cmd as admin and paste in folowing: pip install colorama
+
+Python 11:
+    
+    (Recommended) Microsoft store: https://apps.microsoft.com/detail/9nrwmjp3717k?hl=cs-cz&gl=CZ
+
+    Online download: https://www.python.org/downloads/release/python-3110/
